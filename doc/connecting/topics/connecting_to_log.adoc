@@ -18,7 +18,7 @@ information:
 
 To view this information in {prodname}, display the integration's summary
 and then click the *Activity* tab. See also:
-{LinkFuseOnlineIntegrationGuide}managing-integrations#viewing-integration-activity-information[Viewing integration activity information].
+link:{LinkFuseOnlineIntegrationGuide}#viewing-integration-activity-information[Viewing integration activity information].
 
 To obtain further details about integration execution, you can 
 log information about the messages that an integration processes by 
